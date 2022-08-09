@@ -1,6 +1,6 @@
 # 👋 Hey there!
 
-I'm Rhys, a TypeScript developer from the United Kingdom
+I'm Rhys, a TypeScript developer from the United Kingdom who decided it was about time to create a GitHub Read Me :)
 
 ## GitHub
 Most of my projects are contained in private repositories. Most of what you find on here was written in an attempt to teach myself JavaScript. 
